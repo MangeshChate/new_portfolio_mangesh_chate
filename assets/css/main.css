@@ -919,7 +919,9 @@ body {
     #para{
         display: none;
     }
-
+    #contact-b{
+        display: none;
+    }
    
   }
 .work {
